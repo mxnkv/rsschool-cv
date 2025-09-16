@@ -5,12 +5,12 @@ Male, 26 years old, was born on July 18, 1999</br>
 Lives in: Minsk</br>
 Citizenship: Belarus</br>
 Ready for business trips</br>
-### Desired position and salary
+## Desired position and salary
 **Frontend developer**</br>
 Salary: 1000 USD</br>
 Employment: full-time</br>
 Work schedule: full day</br>
-### Work experience - 6 years 3 months
+## Work experience - 6 years 3 months
 June 2023 - present, 2 years 4 months</br>
 **JSC "Belgazprombank"**</br>
 Minsk, bgpb.by</br>
