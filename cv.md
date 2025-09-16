@@ -11,11 +11,11 @@ Salary: 1000 USD</br>
 Employment: full-time</br>
 Work schedule: full day</br>
 ## Work experience - 6 years 3 months
-### June 2023 - present, 2 years 4 months
-#### JSC "Belgazprombank"
+#### June 2023 - present, 2 years 4 months
+### JSC "Belgazprombank"
 Minsk, bgpb.by</br>
 The financial sector: Bank</br>
-#### Chief Specialist of the Integration Systems Department
+### Chief Specialist of the Integration Systems Department
 Development of the software and hardware complex "Customer Application System":
 - testing and installing updates;
 - setting up system configuration files;
@@ -26,11 +26,11 @@ Development of the software and hardware complex "Customer Application System":
 - conducting regular data recovery tests to ensure the reliability of backups;
 - management of data storage systems.</br>
 
-### June 2018 - April 2022, 3 years 11 months
-#### JSC "Belgazprombank"
+#### June 2018 - April 2022, 3 years 11 months
+### JSC "Belgazprombank"
 Minsk, bgpb.by</br>
 The financial sector: Bank</br>
-#### Specialist of the 2nd category
+### Specialist of the 2nd category
 Administration and maintenance of the Client Application
 System software and hardware complex:
 - writing SQL scripts;
