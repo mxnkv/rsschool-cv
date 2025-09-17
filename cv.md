@@ -29,7 +29,7 @@ Development of the software and hardware complex "Customer Application System":
 ### June 2018 - April 2022, 3 years 11 months
 **JSC "Belgazprombank"**</br></br>
 Minsk, bgpb.by</br>
-The financial sector: Bank</br>
+The financial sector: Bank</br></br>
 **Specialist of the 2nd category**</br></br>
 Administration and maintenance of the Client Application
 System software and hardware complex:
@@ -38,3 +38,13 @@ System software and hardware complex:
 - creation, modification and deletion of user accounts;
 - assigning access rights to resources and data in accordance with security policies;
 - providing technical support, advising users on how to connect and use systems.
+## Education
+Higher education, 2022</br>
+**Belarusian State University of Informatics and Radioelectronics, Minsk**</br>
+Faculty of Computer Technology, Information Technology Software
+## Skills
+### Language proficiency
+**English** — B1 — Medium</br>
+**Russian** — Native</br>
+### Skills and knowledge
+`HTML`, `CSS`, `JavaScript`, `Git`, `SQL`, `Toad`, `Linux`, `XML`, `JSON`, `Java`, `Spring Boot`, `C#`, `ASP.NET Core`, `Python`, `DBMS`, `API`, `MS Word`, `MS Excel`, `Data structures`
