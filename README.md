@@ -1,1 +1,1 @@
-https://mxnkv.github.io/rsschool-cv/cv
+https://mxnkv.github.io/rsschool-cv/
