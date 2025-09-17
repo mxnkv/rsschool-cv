@@ -1,33 +1,6 @@
-.wrapper {
-	background-color: aqua;
-}
-
-.one-header {
-	color: blueviolet;
-}
-
-.two-header {
-	color: rgb(188, 139, 212);
-}
-
-.three-header {
-	color: deeppink;
-}
-
-.text {
-	color:brown;
-}
-.text-bold {
-	font-weight: bold;
-	color: darkgreen;
-	font-size: larger;
-}
-.text-underline {
+.header {
 	text-decoration: underline;
-	color: blue;
 }
-
-ul {
-	font-size: x-large;
-	color:darkmagenta;
+.text {
+	font-size: larger;
 }
