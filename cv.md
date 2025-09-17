@@ -39,7 +39,7 @@ System software and hardware complex:
 - assigning access rights to resources and data in accordance with security policies;
 - providing technical support, advising users on how to connect and use systems.
 ## Education
-Higher education, 2022</br>
+<ins>Higher education, 2022</ins></br>
 **Belarusian State University of Informatics and Radioelectronics, Minsk**</br>
 Faculty of Computer Technology, Information Technology Software
 ## Skills
